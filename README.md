@@ -70,5 +70,5 @@ As the Drivetrain Engineer during the Spring 2026 design phase of our Baja SAE v
 
 ## Acknowledgments
 
-- **Zach Sun** – Co-researcher on drivetrain design methodology  
+- **Zach Sun** – Co-researcher on the Drivetrain Engineering Team
 - **Liberty University Baja SAE Team** – Collaborative design support
