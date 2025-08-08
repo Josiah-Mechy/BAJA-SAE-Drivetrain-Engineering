@@ -16,34 +16,34 @@ As the **Drivetrain Engineer** on our collegiate Baja SAE Competition Team, I fo
   - Conducted research on drivetrain material selection and splash guard performance.
   - Created comparison matrices and design justifications included in our formal documentation.
 
-## 📁 Project Files
+## Project Files
 
 > _Note: Some files may be restricted due to university/team policy. Contact for access._
 
-- SOLIDWORKS Engine and Fuel System Assembly: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly.png
+- SOLIDWORKS full vehicle Assembly: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/SOLIDWORKS%20Frame.png 
 - https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly%20with%20Frame.png— My SolidWorks models: engine mount, splash guard, fuel tank, and integrated drivetrain assembly
 - Joint research documentation with Zach Sun: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%2C%20Fuel%20System%20Component%20Design%20Report%20Fall%202024.docx
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - `SolidWorks` – Full assembly modeling and subsystem integration  
 - `CVT Tuning Tools` – On-track adjustment and performance logging  
 - `Hand Tools` – Precision fitting, bracket fabrication, and mount adjustments  
 - `MS Word / Excel` – Design documentation and performance tracking
 
-## 🏁 Competition Impact
+## Competition Impact
 
 The drivetrain upgrades directly contributed to:
 - More consistent **power delivery** in acceleration events  
 - Fewer mechanical issues during **endurance runs**  
 - Improved **system modularity** for future teams
 
-## 📸 Preview
+## Preview
 
 - CVT Testing 1: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/CVT%20Testing%20Data%201.png
 - CVT Testing 2: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/CVT%20Testing%20Data%202.png
 - CVT Testing 3: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/CVT%20Testing%20Data%203.png
-- Splash Guard:   
+- SOLIDWORKS : https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly.png  
 - Engine, Fuel System Components budget: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%2C%20Fuel%20System%20Components%20Need%20to%20Buy%202025.xlsx
 - BAJA Gantt 2025: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Baja%20Gantt%202025.xlsx
 
