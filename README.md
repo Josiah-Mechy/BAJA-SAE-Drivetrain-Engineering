@@ -20,12 +20,10 @@ As the **Drivetrain Engineer** on our collegiate Baja SAE Competition Team, I fo
 
 > _Note: Some files may be restricted due to university/team policy. Contact for access._
 
-- — My individual contribution slides for design reviews
-- https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly.png
+- SOLIDWORKS Engine and Fuel System Assembly: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly.png
 - https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly%20with%20Frame.png— My SolidWorks models: engine mount, splash guard, fuel tank, and integrated drivetrain assembly
-- Joint research documentation with Zach Sun https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%2C%20Fuel%20System%20Component%20Design%20Report%20Fall%202024.docx
+- Joint research documentation with Zach Sun: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%2C%20Fuel%20System%20Component%20Design%20Report%20Fall%202024.docx
 
-  
 ## 🧰 Tools & Technologies
 
 - `SolidWorks` – Full assembly modeling and subsystem integration  
@@ -42,11 +40,12 @@ The drivetrain upgrades directly contributed to:
 
 ## 📸 Preview
 
-_You can add screenshots like these:_
-- Splash Guard CAD Render  
-- Fuel System in Assembly  
-- Engine Mount with Annotations  
-- Design Slide from PowerPoint
+- CVT Testing 1: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/CVT%20Testing%20Data%201.png
+- CVT Testing 2: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/CVT%20Testing%20Data%202.png
+- CVT Testing 3: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/CVT%20Testing%20Data%203.png
+- Splash Guard:   
+- Engine, Fuel System Components budget: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%2C%20Fuel%20System%20Components%20Need%20to%20Buy%202025.xlsx
+- BAJA Gantt 2025: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Baja%20Gantt%202025.xlsx
 
 ## 📜 Acknowledgments
 
