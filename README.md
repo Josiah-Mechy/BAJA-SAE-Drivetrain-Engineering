@@ -18,7 +18,7 @@ As the **Drivetrain Engineer** on our collegiate Baja SAE Competition Team, I fo
 
 ## Project Files
 
-> _Note: Some files may be restricted due to university/team policy. Contact for access._
+> _Note: Some files like the Preliminary and Final Design Reviews may be restricted due to university/team policy. Contact for access._
 
 - SOLIDWORKS Full Vehicle Assembly: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/SOLIDWORKS%20Frame.png 
 - https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly%20with%20Frame.png— My SolidWorks models: engine mount, splash guard, fuel tank, and integrated drivetrain assembly
