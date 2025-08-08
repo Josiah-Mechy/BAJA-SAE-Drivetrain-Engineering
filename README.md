@@ -20,8 +20,8 @@ As the **Drivetrain Engineer** on our collegiate Baja SAE Competition Team, I fo
 
 > _Note: Some files may be restricted due to university/team policy. Contact for access._
 
-- `/PowerPoint/` — My individual contribution slides for design reviews
-- `/SolidWorks/` — My SolidWorks models: engine mount, splash guard, fuel tank, and integrated drivetrain assembly
+- — My individual contribution slides for design reviews
+-  https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly.png https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly%20with%20Frame.png— My SolidWorks models: engine mount, splash guard, fuel tank, and integrated drivetrain assembly
 - https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%2C%20Fuel%20System%20Component%20Design%20Report%20Fall%202024.docx — Joint research documentation with Zach Sun
 
 ## 🧰 Tools & Technologies
