@@ -23,6 +23,7 @@ As the **Drivetrain Engineer** on our collegiate Baja SAE Competition Team, I fo
 - SOLIDWORKS Full Vehicle Assembly: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/SOLIDWORKS%20Frame.png 
 - https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%20and%20Fuel%20Assembly%20with%20Frame.png— My SolidWorks models: engine mount, splash guard, fuel tank, and integrated drivetrain assembly
 - Joint research documentation with Zach Sun: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/Engine%2C%20Fuel%20System%20Component%20Design%20Report%20Fall%202024.docx
+- CVT Testing Track Time Video: https://github.com/Josiah-Mechy/BAJA-SAE-Drivetrain-Engineering/blob/main/BAJA%20CVT%20Testing.MOV
 
 ## Tools & Technologies
 
