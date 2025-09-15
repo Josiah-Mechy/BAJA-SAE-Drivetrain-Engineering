@@ -1,5 +1,5 @@
 # BAJA-SAE-Drivetrain-Engineering
-As the **Drivetrain Engineer** on our collegiate Baja SAE Competition Team, I focused on the design, tuning, and integration of the vehicle’s core powertrain components. This repository highlights my individual contributions to the drivetrain system, including SolidWorks models, performance diagnostics, and design research.
+As one of the Drivetrain Engineers on our collegiate Baja SAE Competition Team, I focused on the design, tuning, and integration of the vehicle’s core powertrain components. This repository highlights my individual contributions to the drivetrain system, including SolidWorks models, performance diagnostics, and design research.
 
 ## My Contributions
 
