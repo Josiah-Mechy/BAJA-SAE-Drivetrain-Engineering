@@ -14,7 +14,7 @@ As one of the Drivetrain Engineers on our collegiate Baja SAE Competition Team, 
 
 - **Design Research** (with teammate Zach Sun)  
   - Conducted research on drivetrain material selection and splash guard performance.
-  - Created comparison matrices and design justifications included in our formal documentation.
+  - Created design justifications included in our formal documentation.
 
 ## Project Files
 
