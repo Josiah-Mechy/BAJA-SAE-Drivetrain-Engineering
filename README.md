@@ -51,7 +51,7 @@ The drivetrain upgrades directly contributed to:
 
 ## What I Learned
 
-As the Drivetrain Engineer during the Spring 2026 design phase of our Baja SAE vehicle, I strengthened my technical foundation and engineering mindset while gaining hands-on experience in:
+As the Drivetrain Engineer during the 2024-2025 design phase of our Baja SAE vehicle, I strengthened my technical foundation and engineering mindset while gaining hands-on experience in:
 
 - **Advanced SolidWorks Modeling**  
   Gained confidence in designing detailed, manufacturable drivetrain components — including the engine, splash guard, and fuel tank — and integrating them into the full vehicle assembly with accuracy and intent.
