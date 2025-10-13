@@ -3,14 +3,14 @@ As one of the Drivetrain Engineers on our collegiate Baja SAE Competition Team, 
 
 ## My Contributions
 
-- **Engine & Fuel System Integration**  
-  - Designed and positioned the **engine**, **fuel tank**, and **fuel line routing** in the full vehicle assembly.
-  - Developed a **custom splash guard** to protect the powertrain during off-road events.
-  - Ensured safe and efficient packaging within the chassis using SolidWorks.
-
 - **CVT & Drivetrain Optimization**  
   - Tuned the **Continuously Variable Transmission (CVT)** to improve torque delivery and reduce belt slippage.
   - Diagnosed and resolved drivetrain issues including throttle response, gearbox misalignment, and fuel delivery inconsistencies.
+ 
+- **Engine & Fuel System Integration** (with teammate Zach Sun)  
+  - Designed and positioned the **engine**, **fuel tank**, and **fuel line routing** in the full vehicle assembly.
+  - Developed a **custom splash guard** to protect the powertrain during off-road events.
+  - Ensured safe and efficient packaging within the chassis using SolidWorks.
 
 - **Design Research** (with teammate Zach Sun)  
   - Conducted research on drivetrain material selection and splash guard performance.
